@@ -3,3 +3,4 @@ dist/LoLGG-v0.2.0-Windows.zip filter=lfs diff=lfs merge=lfs -text
 dist/LoLGG-v0.3.0-Windows.zip filter=lfs diff=lfs merge=lfs -text
 dist/LoLGG-v0.4.0-Windows.zip filter=lfs diff=lfs merge=lfs -text
 dist/LoLGG-v0.5.0-Windows.zip filter=lfs diff=lfs merge=lfs -text
+dist/LoLGG-v0.5.1-Windows.zip filter=lfs diff=lfs merge=lfs -text
